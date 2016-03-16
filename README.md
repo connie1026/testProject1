@@ -17,3 +17,5 @@ For this week, we have a few objectives. Read on.
 * Pull from the latest version as often as possible
 * Commit locally until you have a working copy
 * Push to the  repository
+Modification to testProject1
+Tue Mar 15 21:57:23 PDT 2016
